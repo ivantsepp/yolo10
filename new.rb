@@ -7,5 +7,3 @@ def ivan
 rescue
   nil
 end
-def more
-  end
