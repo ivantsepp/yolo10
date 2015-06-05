@@ -7,4 +7,5 @@ class Example2
   def two
     p 'two'
   end
+  # another one
 end
