@@ -1,4 +1,4 @@
-# Testing
+# Testing two
 class Example2
 
   def one
