@@ -1,3 +1,4 @@
+# Example class
 class Example
 
   def ivan
