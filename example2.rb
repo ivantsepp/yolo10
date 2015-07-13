@@ -4,7 +4,7 @@ class Example2
     p 'one'
   end
 
-  def two
+  def two  
     p 'two'
   end
   # another one
