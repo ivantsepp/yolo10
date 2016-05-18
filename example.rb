@@ -4,4 +4,8 @@ class Example
     puts 'RailsConf 2015!'
   end
 
+  def hm
+
+  end
+
 end
