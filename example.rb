@@ -8,4 +8,7 @@ class Example
 
   end
 
+  def hm2
+  end
+
 end
