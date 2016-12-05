@@ -1,5 +1,5 @@
 require 'pry'
-# lol
+
 binding.pry
 
 def ivan
@@ -7,5 +7,3 @@ def ivan
 rescue
   nil
 end
-def more
-  end
