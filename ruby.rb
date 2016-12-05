@@ -7,3 +7,6 @@ def ivan
 rescue
   nil
 end
+def another
+  what
+end
