@@ -1,0 +1,7 @@
+{
+    "name": "catapult/placeholder",
+    "description": "A placeholder to reserve name for future packages",
+    "require": {
+        "php": ">=8.2"
+    }
+}
